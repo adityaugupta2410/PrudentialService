@@ -1,0 +1,7 @@
+2019-08-19 03:34:40.9432 WeatherDataAPI.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:57347/api/WeatherData
+Controller : WeatherDataAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
