@@ -1,0 +1,9 @@
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\bin\Debug\WeatherData.Entities.dll
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\bin\Debug\WeatherData.Entities.pdb
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\obj\Debug\WeatherData.Entities.csproj.CoreCompileInputs.cache
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\obj\Debug\WeatherData.Entities.csproj.CopyComplete
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\obj\Debug\WeatherData.Entities.dll
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\obj\Debug\WeatherData.Entities.pdb
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Entities\obj\Debug\WeatherData.Entities.csprojAssemblyReference.cache

@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using Unity;
+using Unity.Lifetime;
+using WeatherData.BusinessLayer;
 using WeatherDataAPI.CustomFilters;
 
 namespace WeatherDataAPI
@@ -22,6 +25,10 @@ namespace WeatherDataAPI
             );
 
             config.Filters.Add(new LoggingFilterAttribute());
+
+            var container = new UnityContainer();
+            container.RegisterType<IWeatherRepository, WeatherRepository>(new HierarchicalLifetimeManager());
+            config.DependencyResolver = new DI_Implementation.UnityResolver(container);
         }
     }
 }

@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="WeatherDataAPI.Tests.WeatherAPI.GetWeatherData_ShouldReturnWeatherData" /></Playlist>

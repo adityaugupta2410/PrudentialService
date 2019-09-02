@@ -1,0 +1,6 @@
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Helpers\bin\Debug\WeatherData.Helpers.dll
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Helpers\bin\Debug\WeatherData.Helpers.pdb
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Helpers\obj\Debug\WeatherData.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Helpers\obj\Debug\WeatherData.Helpers.dll
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Helpers\obj\Debug\WeatherData.Helpers.pdb
+C:\Users\adity\OneDrive\Desktop\Git Repos\PrudentialService\WeatherData.Helpers\obj\Debug\WeatherData.Helpers.csprojAssemblyReference.cache

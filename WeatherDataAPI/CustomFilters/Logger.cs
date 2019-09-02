@@ -10,7 +10,7 @@ namespace WeatherDataAPI.CustomFilters
     {
         public override void OnActionExecuting(HttpActionContext filterContext)
         {
-            GlobalConfiguration.Configuration.Services.Replace(typeof(ITraceWriter), new Helpers.NLogger());
+            GlobalConfiguration.Configuration.Services.Replace(typeof(ITraceWriter), new WeatherData.Helpers.NLogger());
             var trace = GlobalConfiguration.Configuration.Services.GetTraceWriter();
             trace.Info(filterContext.Request, "Controller : " + filterContext.ControllerContext.ControllerDescriptor.ControllerType.FullName + Environment.NewLine + "Action : " + filterContext.ActionDescriptor.ActionName, "JSON", filterContext.RequestContext.RouteData);
         }

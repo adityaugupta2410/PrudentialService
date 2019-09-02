@@ -1,0 +1,35 @@
+2019-09-03 02:49:46.9889 WeatherData.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:57347/api/WeatherData
+Controller : WeatherDataAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-03 03:09:02.5932 WeatherData.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:57347/api/WeatherData
+Controller : WeatherDataAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-03 03:09:06.4821 WeatherData.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:57347/api/WeatherData
+Controller : WeatherDataAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-03 04:00:01.9081 WeatherData.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:57347/api/WeatherData
+Controller : WeatherDataAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-09-03 04:00:01.9081 WeatherData.Helpers.NLogger JSON
+Method: GET
+URL: http://localhost:57347/api/WeatherData
+Controller : WeatherDataAPI.Controllers.WeatherDataController
+Action : Get
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
