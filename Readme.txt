@@ -1,5 +1,5 @@
 Hello Readers,
-This solution contains two projects :
+This solution contains two important executable projects :
   1. WEBAPI Service Project
   2. Unit Test Project
 
